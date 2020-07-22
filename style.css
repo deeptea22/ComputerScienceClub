@@ -1,0 +1,178 @@
+
+html{
+    font-family:monospace;
+    background:  linear-gradient(to right, #eeeff5, #f7f7f7);
+}
+.head{
+    display:flex;
+    padding: 0 50px;
+    font-size: 20px;
+    color:#3f3b4e;
+    border-bottom: 0.1px solid  #e9e7f1;
+    box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.0001);
+
+
+}
+.headings{
+    display:flex;
+    margin-top:35px;
+    margin-left: 460px;
+    padding: 0 70px;
+    flex-direction:row;
+    color: black;
+}
+
+.sm{
+    padding:0 30px;
+    font-size: 25px;
+}
+.pz{
+    padding:0 30px;
+     font-size: 25px;
+}
+.about{
+    padding:0 30px;
+     font-size: 25px;
+}
+.con{
+    padding:0 30px;
+     font-size: 25px;
+}
+span.name{
+    color:#3a7bd5;
+    font-size: 40px;
+}
+.main{
+    display: flex;
+
+}
+
+.log{
+     padding: 16px 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    background: linear-gradient(to right,#00d2ff,#3a7bd5 );
+    color: white;
+     border: 1px solid transparent ;
+     margin-top: -80px;
+     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  cursor: pointer;
+  margin-left:50px;
+}
+
+
+.contact-in
+{
+	width: 80%;
+	height: auto;
+	margin:auto;
+	
+}
+
+.contact-map
+{
+	width: 100%;
+	height: auto;
+	margin-top: 50px;
+	margin-bottom:100px;
+}
+.contact-map iframe
+{
+	width: 100%;
+	height: 100%;
+}
+.contact-form
+{
+	width: 100%;
+	height: auto;
+	flex: 50%;
+	padding: 30px;
+	text-align: center;
+	}
+.contact-form h1
+{
+	margin-bottom: 20px;
+}
+
+.contact-form-txt
+{
+	width: 100%;
+	height: 40px;
+	color: #000;
+	border: 1px solid #bcbcbc;
+	border-radius: 10px;
+	outline: none;
+	margin-bottom: 20px;
+	padding: 15px;
+}
+.contact-form-txt::placeholder
+{
+	color: #aaa;
+}
+.contact-form-textarea
+{
+	width: 100%;
+	height: 130px;
+	color: #000;
+	border: 1px solid #bcbcbc;
+	border-radius: 10px;
+	outline: none;
+	margin-bottom: 20px;
+	padding: 15px;
+}
+.contact-form-textarea::placeholder
+{
+	color: #aaa;
+}
+
+.contact-form-btn
+{
+	width: 100%;
+	text-transform: uppercase;
+	padding: 10px 0;
+	cursor: pointer;
+	font-size: 18px;
+	 font-size: 20px;
+    border-radius: 10px;
+    background: linear-gradient(to right,#00d2ff,#3a7bd5 );
+    color: white;
+     border: 1px solid transparent ;
+     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  cursor: pointer;
+}
+.write{
+	text-align:center;
+	margin-top: 50px;
+}
+.write h3{
+	font-size: 30px;
+}
+
+.all{
+	display:flex;
+	justify-content:space-evenly;
+
+}
+.social h3{
+}
+
+.social img{
+	width: 380px;
+}
+
+.links img{
+	width:30px;
+	padding:10px 20px
+}
+.footer{
+  background: linear-gradient(to right,#00d2ff,#3a7bd5 );;
+  height: 190px;
+  margin-top: 80px
+}
+
+.headings a{
+  text-decoration:none;
+  color:black;
+}
+.logo a{
+text-decoration:none;}

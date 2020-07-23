@@ -75,8 +75,9 @@ span.name{
   }
 
   .column1 {
-    width: 25%;
+    width: 30%;
     display: block;
+    padding: 0 40px;
   }
 .headings{
     display:flex;

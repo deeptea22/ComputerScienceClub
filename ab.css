@@ -9,7 +9,6 @@ html{
     color:#3f3b4e;
     border-bottom: 0.1px solid  #e9e7f1;
     box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.0001);
-    /*deepthi*/
 
 }
 .headings{
@@ -76,14 +75,14 @@ span.name{
   }
 
   .column1 {
-    width: 30%;
+    width: 25%;
     display: block;
   }
 .headings{
     display:flex;
     margin-top:35px;
     margin-left: 10px;
-    padding: 0 10px;
+    padding: 0 6px;
     flex-direction:row;
     color: black;
 }

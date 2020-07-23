@@ -124,19 +124,19 @@ span.name{
 }
 .sm{
     padding:0 15px;
-    font-size: 15px;
+    font-size: 10px;
 }
 .pz{
     padding:0 15px;
-     font-size: 15px;
+     font-size: 10px;
 }
 .about{
     padding:0 15px;
-     font-size: 15px;
+     font-size: 10px;
 }
 .con{
     padding:0 15px;
-     font-size: 15px;
+     font-size: 10px;
 }
 span.name{
     color:#3a7bd5;
@@ -144,7 +144,7 @@ span.name{
 }
 .log{
      padding: 10px 20px;
-    font-size: 15px;
+    font-size: 10px;
     border-radius:10px;
     background: linear-gradient(to right,#00d2ff,#3a7bd5 );
     color: white;

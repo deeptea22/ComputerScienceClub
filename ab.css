@@ -118,24 +118,24 @@ span.name{
     display:flex;
     margin-top:35px;
     margin-left: 10px;
-    padding: 0 6px;
+    padding: 0 4px;
     flex-direction:row;
     color: black;
 }
 .sm{
-    padding:0 20px;
+    padding:0 15px;
     font-size: 15px;
 }
 .pz{
-    padding:0 20px;
+    padding:0 15px;
      font-size: 15px;
 }
 .about{
-    padding:0 20px;
+    padding:0 15px;
      font-size: 15px;
 }
 .con{
-    padding:0 20px;
+    padding:0 15px;
      font-size: 15px;
 }
 span.name{

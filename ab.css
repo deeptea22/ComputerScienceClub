@@ -14,7 +14,7 @@ html{
 .headings{
     display:flex;
     margin-top:35px;
-    margin-left: 420px;
+    margin-left: 440px;
     padding: 0 70px;
     flex-direction:row;
     color: black;
@@ -77,10 +77,30 @@ span.name{
 .headings{
     display:flex;
     margin-top:35px;
-    margin-left: 10px;
+    margin-left: 20px;
     padding: 0 6px;
     flex-direction:row;
     color: black;
+}
+.sm{
+    padding:0 20px;
+    font-size: 15px;
+}
+.pz{
+    padding:0 20px;
+     font-size: 15px;
+}
+.about{
+    padding:0 20px;
+     font-size: 15px;
+}
+.con{
+    padding:0 20px;
+     font-size: 15px;
+}
+span.name{
+    color:#3a7bd5;
+    font-size: 30px;
 }
 }
 @media screen and (max-width: 650px) {

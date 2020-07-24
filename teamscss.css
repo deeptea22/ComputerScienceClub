@@ -101,7 +101,20 @@ p {text-align: center;}
   padding: 0 60px;
  
 }
-
+@media screen and (max-width: 1150px) {
+    .headings{
+    display:flex;
+    margin-top:35px;
+    margin-left: 155px;
+    padding: 0 70px;
+    flex-direction:row;
+    color: black;
+}
+.con{
+    padding:0 5px;
+     font-size: 15px;
+}
+}  
 @media screen and (max-width: 650px) {
   .column {
     width: 75%;

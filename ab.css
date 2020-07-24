@@ -76,6 +76,12 @@ span.name{
     flex-direction:row;
     color: black;
 }
+.con{
+    padding:0 10px;
+     font-size: 15px;
+}
+}  
+    
       
 @media screen and (max-width: 850px) {
   

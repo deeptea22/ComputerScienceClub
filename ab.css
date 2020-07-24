@@ -76,7 +76,7 @@ span.name{
   }
 .headings{
     display:flex;
-    margin-top:45px;
+    margin-top:48px;
     margin-left: 20px;
     padding: 0 6px;
     flex-direction:row;
@@ -138,7 +138,7 @@ span.name{
     font-size: 10px;
 }
 .log{
-     padding: 10px 15px;
+     padding: 10px 10px;
     font-size: 10px;
     border-radius:10px;
     background: linear-gradient(to right,#00d2ff,#3a7bd5 );

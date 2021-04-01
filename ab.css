@@ -14,10 +14,11 @@ html{
 .headings{
     display:flex;
     margin-top:35px;
-    margin-left: 440px;
+    margin-left: 400px;
     padding: 0 70px;
     flex-direction:row;
     color: black;
+    width:560px;
 }
 
 .sm{
@@ -46,8 +47,8 @@ span.name{
 }
 
 .log{
-     padding: 16px 50px;
-    font-size: 20px;
+     padding: 16px 20px;
+    font-size: 17px;
     border-radius: 10px;
     background: linear-gradient(to right,#00d2ff,#3a7bd5 );
     color: white;
@@ -55,7 +56,7 @@ span.name{
      margin-top: -80px;
      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
   cursor: pointer;
-  margin-left:50px;
+  margin-left:20px;
 }
 
 .staff{
